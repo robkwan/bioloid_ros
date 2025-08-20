@@ -203,78 +203,78 @@
   <link name="torso_link">
     <visual>
       <geometry>
-        <mesh filename="file:///home/robertkwan/catkin_src/src/bioloid_common/bioloid_description/assets/cad/BPF-CHEST-F_FCD-Conv_BDR-Col.dae" scale="0.001 0.001 0.001"/>
+        <mesh filename="file:///home/robertkwan/catkin_ws/src/bioloid_common/bioloid_description/assets/cad/BPF-CHEST-F_FCD-Conv_BDR-Col.dae" scale="0.001 0.001 0.001"/>
       </geometry>
       <origin rpy="1.5707963267948966 0 1.5707963267948966"/>
     </visual>
     <visual>
       <geometry>
-        <mesh filename="file:///home/robertkwan/catkin_src/src/bioloid_common/bioloid_description/assets/cad/BPF-CHEST-B_FCD-Conv_BDR-Col.dae" scale="0.001 0.001 0.001"/>
+        <mesh filename="file:///home/robertkwan/catkin_ws/src/bioloid_common/bioloid_description/assets/cad/BPF-CHEST-B_FCD-Conv_BDR-Col.dae" scale="0.001 0.001 0.001"/>
       </geometry>
       <origin rpy="1.5707963267948966 0 1.5707963267948966"/>
     </visual>
     <visual>
       <geometry>
-        <mesh filename="file:///home/robertkwan/catkin_src/src/bioloid_common/bioloid_description/assets/cad/CM-5_FCD-Conv_BDR-Col.dae" scale="0.001 0.001 0.001"/>
+        <mesh filename="file:///home/robertkwan/catkin_ws/src/bioloid_common/bioloid_description/assets/cad/CM-5_FCD-Conv_BDR-Col.dae" scale="0.001 0.001 0.001"/>
       </geometry>
       <origin rpy="0 3.141592653589793 1.5707963267948966" xyz="-0.032 0 -0.015"/>
     </visual>
     <!-- Sensor 100 -->
     <visual>
       <geometry>
-        <mesh filename="file:///home/robertkwan/catkin_src/src/bioloid_common/bioloid_description/assets/cad/AX-S1_FCD-Conv_BDR-Col.dae" scale="0.001 0.001 0.001"/>
+        <mesh filename="file:///home/robertkwan/catkin_ws/src/bioloid_common/bioloid_description/assets/cad/AX-S1_FCD-Conv_BDR-Col.dae" scale="0.001 0.001 0.001"/>
       </geometry>
       <origin rpy="-1.5707963267948966 0 -1.5707963267948966" xyz="0 0 0.025"/>
     </visual>
     <!-- Motor 1 -->
     <visual>
       <geometry>
-        <mesh filename="file:///home/robertkwan/catkin_src/src/bioloid_common/bioloid_description/assets/cad/AX-12_FCD-Conv_BDR-Col.dae" scale="0.001 0.001 0.001"/>
+        <mesh filename="file:///home/robertkwan/catkin_ws/src/bioloid_common/bioloid_description/assets/cad/AX-12_FCD-Conv_BDR-Col.dae" scale="0.001 0.001 0.001"/>
       </geometry>
       <origin rpy="1.5707963267948966 0 0" xyz="0 -0.032 0"/>
     </visual>
     <visual>
       <geometry>
-        <mesh filename="file:///home/robertkwan/catkin_src/src/bioloid_common/bioloid_description/assets/cad/FP04-F3_FCD-Conv_BDR-Col.dae" scale="0.001 0.001 0.001"/>
+        <mesh filename="file:///home/robertkwan/catkin_ws/src/bioloid_common/bioloid_description/assets/cad/FP04-F3_FCD-Conv_BDR-Col.dae" scale="0.001 0.001 0.001"/>
       </geometry>
       <origin rpy="3.141592653589793 -1.5707963267948966 1.5707963267948966" xyz="-0.019 -0.032 -0.0145"/>
     </visual>
     <!-- Motor 2 -->
     <visual>
       <geometry>
-        <mesh filename="file:///home/robertkwan/catkin_src/src/bioloid_common/bioloid_description/assets/cad/AX-12_FCD-Conv_BDR-Col.dae" scale="0.001 0.001 0.001"/>
+        <mesh filename="file:///home/robertkwan/catkin_ws/src/bioloid_common/bioloid_description/assets/cad/AX-12_FCD-Conv_BDR-Col.dae" scale="0.001 0.001 0.001"/>
       </geometry>
       <origin rpy="1.5707963267948966 0 3.141592653589793" xyz="0 0.032 0"/>
     </visual>
     <visual>
       <geometry>
-        <mesh filename="file:///home/robertkwan/catkin_src/src/bioloid_common/bioloid_description/assets/cad/FP04-F3_FCD-Conv_BDR-Col.dae" scale="0.001 0.001 0.001"/>
+        <mesh filename="file:///home/robertkwan/catkin_ws/src/bioloid_common/bioloid_description/assets/cad/FP04-F3_FCD-Conv_BDR-Col.dae" scale="0.001 0.001 0.001"/>
       </geometry>
       <origin rpy="3.141592653589793 -1.5707963267948966 1.5707963267948966" xyz="-0.019 0.032 -0.0145"/>
     </visual>
     <visual>
       <geometry>
-        <mesh filename="file:///home/robertkwan/catkin_src/src/bioloid_common/bioloid_description/assets/cad/FP04-F3_FCD-Conv_BDR-Col.dae" scale="0.001 0.001 0.001"/>
+        <mesh filename="file:///home/robertkwan/catkin_ws/src/bioloid_common/bioloid_description/assets/cad/FP04-F3_FCD-Conv_BDR-Col.dae" scale="0.001 0.001 0.001"/>
       </geometry>
       <origin rpy="0 0 1.5707963267948966" xyz="0.0175 0 -0.0655"/>
     </visual>
     <visual>
       <geometry>
-        <mesh filename="file:///home/robertkwan/catkin_src/src/bioloid_common/bioloid_description/assets/cad/FP04-F3_FCD-Conv_BDR-Col.dae" scale="0.001 0.001 0.001"/>
+        <mesh filename="file:///home/robertkwan/catkin_ws/src/bioloid_common/bioloid_description/assets/cad/FP04-F3_FCD-Conv_BDR-Col.dae" scale="0.001 0.001 0.001"/>
       </geometry>
       <origin rpy="0 0 -1.5707963267948966" xyz="-0.0175 0 -0.0655"/>
     </visual>
     <!-- Motor 7 -->
     <visual>
       <geometry>
-        <mesh filename="file:///home/robertkwan/catkin_src/src/bioloid_common/bioloid_description/assets/cad/AX-12_FCD-Conv_BDR-Col.dae" scale="0.001 0.001 0.001"/>
+        <mesh filename="file:///home/robertkwan/catkin_ws/src/bioloid_common/bioloid_description/assets/cad/AX-12_FCD-Conv_BDR-Col.dae" scale="0.001 0.001 0.001"/>
       </geometry>
       <origin rpy="0 3.141592653589793 3.141592653589793" xyz="0 -0.0385 -0.0655"/>
     </visual>
     <!-- Motor 8 -->
     <visual>
       <geometry>
-        <mesh filename="file:///home/robertkwan/catkin_src/src/bioloid_common/bioloid_description/assets/cad/AX-12_FCD-Conv_BDR-Col.dae" scale="0.001 0.001 0.001"/>
+        <mesh filename="file:///home/robertkwan/catkin_ws/src/bioloid_common/bioloid_description/assets/cad/AX-12_FCD-Conv_BDR-Col.dae" scale="0.001 0.001 0.001"/>
       </geometry>
       <origin rpy="0 3.141592653589793 0" xyz="0 0.0385 -0.0655"/>
     </visual>
@@ -313,7 +313,7 @@
   <link name="r_foot_link">
     <visual>
       <geometry>
-        <mesh filename="file:///home/robertkwan/catkin_src/src/bioloid_common/bioloid_description/assets/cad/FP04-F12_FCD-Conv_BDR-Col.dae" scale="0.001 0.001 0.001"/>
+        <mesh filename="file:///home/robertkwan/catkin_ws/src/bioloid_common/bioloid_description/assets/cad/FP04-F12_FCD-Conv_BDR-Col.dae" scale="0.001 0.001 0.001"/>
       </geometry>
       <origin rpy="0 1.5707963267948966 -1.5707963267948966" xyz="0.0235 0 0"/>
     </visual>
@@ -340,7 +340,7 @@
   <link name="l_foot_link">
     <visual>
       <geometry>
-        <mesh filename="file:///home/robertkwan/catkin_src/src/bioloid_common/bioloid_description/assets/cad/FP04-F12_FCD-Conv_BDR-Col.dae" scale="0.001 0.001 0.001"/>
+        <mesh filename="file:///home/robertkwan/catkin_ws/src/bioloid_common/bioloid_description/assets/cad/FP04-F12_FCD-Conv_BDR-Col.dae" scale="0.001 0.001 0.001"/>
       </geometry>
       <origin rpy="3.141592653589793 1.5707963267948966 -1.5707963267948966" xyz="-0.0235 0 0"/>
     </visual>
@@ -410,7 +410,7 @@
   <link name="r_shoulder_swing_link">
     <visual>
       <geometry>
-        <mesh filename="file:///home/robertkwan/catkin_src/src/bioloid_common/bioloid_description/assets/cad/FP04-F1_FCD-Conv_BDR-Col.dae" scale="0.001 0.001 0.001"/>
+        <mesh filename="file:///home/robertkwan/catkin_ws/src/bioloid_common/bioloid_description/assets/cad/FP04-F1_FCD-Conv_BDR-Col.dae" scale="0.001 0.001 0.001"/>
       </geometry>
       <origin rpy="0 3.141592653589793 3.141592653589793" xyz="0 0.014 0.044"/>
     </visual>
@@ -443,7 +443,7 @@
   <link name="l_shoulder_swing_link">
     <visual>
       <geometry>
-        <mesh filename="file:///home/robertkwan/catkin_src/src/bioloid_common/bioloid_description/assets/cad/FP04-F1_FCD-Conv_BDR-Col.dae" scale="0.001 0.001 0.001"/>
+        <mesh filename="file:///home/robertkwan/catkin_ws/src/bioloid_common/bioloid_description/assets/cad/FP04-F1_FCD-Conv_BDR-Col.dae" scale="0.001 0.001 0.001"/>
       </geometry>
       <origin rpy="0 3.141592653589793 3.141592653589793" xyz="0 0.014 0.044"/>
     </visual>
@@ -476,31 +476,31 @@
   <link name="r_upper_arm_link">
     <visual>
       <geometry>
-        <mesh filename="file:///home/robertkwan/catkin_src/src/bioloid_common/bioloid_description/assets/cad/AX-12_FCD-Conv_BDR-Col.dae" scale="0.001 0.001 0.001"/>
+        <mesh filename="file:///home/robertkwan/catkin_ws/src/bioloid_common/bioloid_description/assets/cad/AX-12_FCD-Conv_BDR-Col.dae" scale="0.001 0.001 0.001"/>
       </geometry>
       <origin rpy="0 0 1.5707963267948966" xyz="0 0 0"/>
     </visual>
     <visual>
       <geometry>
-        <mesh filename="file:///home/robertkwan/catkin_src/src/bioloid_common/bioloid_description/assets/cad/BPF-BU_FCD-Conv_BDR-Col.dae" scale="0.001 0.001 0.001"/>
+        <mesh filename="file:///home/robertkwan/catkin_ws/src/bioloid_common/bioloid_description/assets/cad/BPF-BU_FCD-Conv_BDR-Col.dae" scale="0.001 0.001 0.001"/>
       </geometry>
       <origin rpy="-1.5707963267948966 0 1.5707963267948966" xyz="0 0 -0.0185"/>
     </visual>
     <visual>
       <geometry>
-        <mesh filename="file:///home/robertkwan/catkin_src/src/bioloid_common/bioloid_description/assets/cad/BPF-WA_FCD-Conv_BDR-Col.dae" scale="0.001 0.001 0.001"/>
+        <mesh filename="file:///home/robertkwan/catkin_ws/src/bioloid_common/bioloid_description/assets/cad/BPF-WA_FCD-Conv_BDR-Col.dae" scale="0.001 0.001 0.001"/>
       </geometry>
       <origin rpy="-1.5707963267948966 0 1.5707963267948966" xyz="0 0 -0.019"/>
     </visual>
     <visual>
       <geometry>
-        <mesh filename="file:///home/robertkwan/catkin_src/src/bioloid_common/bioloid_description/assets/cad/FP04-F3_FCD-Conv_BDR-Col.dae" scale="0.001 0.001 0.001"/>
+        <mesh filename="file:///home/robertkwan/catkin_ws/src/bioloid_common/bioloid_description/assets/cad/FP04-F3_FCD-Conv_BDR-Col.dae" scale="0.001 0.001 0.001"/>
       </geometry>
       <origin rpy="0 0 1.5707963267948966" xyz="0.0415 0 0"/>
     </visual>
     <visual>
       <geometry>
-        <mesh filename="file:///home/robertkwan/catkin_src/src/bioloid_common/bioloid_description/assets/cad/FP04-F2_FCD-Conv_BDR-Col.dae" scale="0.001 0.001 0.001"/>
+        <mesh filename="file:///home/robertkwan/catkin_ws/src/bioloid_common/bioloid_description/assets/cad/FP04-F2_FCD-Conv_BDR-Col.dae" scale="0.001 0.001 0.001"/>
       </geometry>
       <origin rpy="-1.5707963267948966 1.5707963267948966 1.5707963267948966" xyz="0.0675 0 0"/>
     </visual>
@@ -539,31 +539,31 @@
   <link name="l_upper_arm_link">
     <visual>
       <geometry>
-        <mesh filename="file:///home/robertkwan/catkin_src/src/bioloid_common/bioloid_description/assets/cad/AX-12_FCD-Conv_BDR-Col.dae" scale="0.001 0.001 0.001"/>
+        <mesh filename="file:///home/robertkwan/catkin_ws/src/bioloid_common/bioloid_description/assets/cad/AX-12_FCD-Conv_BDR-Col.dae" scale="0.001 0.001 0.001"/>
       </geometry>
       <origin rpy="3.141592653589793 0 -1.5707963267948966" xyz="0 0 0"/>
     </visual>
     <visual>
       <geometry>
-        <mesh filename="file:///home/robertkwan/catkin_src/src/bioloid_common/bioloid_description/assets/cad/BPF-BU_FCD-Conv_BDR-Col.dae" scale="0.001 0.001 0.001"/>
+        <mesh filename="file:///home/robertkwan/catkin_ws/src/bioloid_common/bioloid_description/assets/cad/BPF-BU_FCD-Conv_BDR-Col.dae" scale="0.001 0.001 0.001"/>
       </geometry>
       <origin rpy="1.5707963267948966 0 1.5707963267948966" xyz="0 0 0.0185"/>
     </visual>
     <visual>
       <geometry>
-        <mesh filename="file:///home/robertkwan/catkin_src/src/bioloid_common/bioloid_description/assets/cad/BPF-WA_FCD-Conv_BDR-Col.dae" scale="0.001 0.001 0.001"/>
+        <mesh filename="file:///home/robertkwan/catkin_ws/src/bioloid_common/bioloid_description/assets/cad/BPF-WA_FCD-Conv_BDR-Col.dae" scale="0.001 0.001 0.001"/>
       </geometry>
       <origin rpy="1.5707963267948966 0 1.5707963267948966" xyz="0 0 0.019"/>
     </visual>
     <visual>
       <geometry>
-        <mesh filename="file:///home/robertkwan/catkin_src/src/bioloid_common/bioloid_description/assets/cad/FP04-F3_FCD-Conv_BDR-Col.dae" scale="0.001 0.001 0.001"/>
+        <mesh filename="file:///home/robertkwan/catkin_ws/src/bioloid_common/bioloid_description/assets/cad/FP04-F3_FCD-Conv_BDR-Col.dae" scale="0.001 0.001 0.001"/>
       </geometry>
       <origin rpy="3.141592653589793 0 -1.5707963267948966" xyz="0.0415 0 0"/>
     </visual>
     <visual>
       <geometry>
-        <mesh filename="file:///home/robertkwan/catkin_src/src/bioloid_common/bioloid_description/assets/cad/FP04-F2_FCD-Conv_BDR-Col.dae" scale="0.001 0.001 0.001"/>
+        <mesh filename="file:///home/robertkwan/catkin_ws/src/bioloid_common/bioloid_description/assets/cad/FP04-F2_FCD-Conv_BDR-Col.dae" scale="0.001 0.001 0.001"/>
       </geometry>
       <origin rpy="1.5707963267948966 1.5707963267948966 -1.5707963267948966" xyz="0.0675 0 0"/>
     </visual>
@@ -603,25 +603,25 @@
     <!-- Motor 5 -->
     <visual>
       <geometry>
-        <mesh filename="file:///home/robertkwan/catkin_src/src/bioloid_common/bioloid_description/assets/cad/AX-12_FCD-Conv_BDR-Col.dae" scale="0.001 0.001 0.001"/>
+        <mesh filename="file:///home/robertkwan/catkin_ws/src/bioloid_common/bioloid_description/assets/cad/AX-12_FCD-Conv_BDR-Col.dae" scale="0.001 0.001 0.001"/>
       </geometry>
       <origin rpy="0 0 1.5707963267948966" xyz="0 0 0"/>
     </visual>
     <visual>
       <geometry>
-        <mesh filename="file:///home/robertkwan/catkin_src/src/bioloid_common/bioloid_description/assets/cad/BPF-BU_FCD-Conv_BDR-Col.dae" scale="0.001 0.001 0.001"/>
+        <mesh filename="file:///home/robertkwan/catkin_ws/src/bioloid_common/bioloid_description/assets/cad/BPF-BU_FCD-Conv_BDR-Col.dae" scale="0.001 0.001 0.001"/>
       </geometry>
       <origin rpy="-1.5707963267948966 0 1.5707963267948966" xyz="0 0 -0.0185"/>
     </visual>
     <visual>
       <geometry>
-        <mesh filename="file:///home/robertkwan/catkin_src/src/bioloid_common/bioloid_description/assets/cad/BPF-WA_FCD-Conv_BDR-Col.dae" scale="0.001 0.001 0.001"/>
+        <mesh filename="file:///home/robertkwan/catkin_ws/src/bioloid_common/bioloid_description/assets/cad/BPF-WA_FCD-Conv_BDR-Col.dae" scale="0.001 0.001 0.001"/>
       </geometry>
       <origin rpy="-1.5707963267948966 0 1.5707963267948966" xyz="0 0 -0.019"/>
     </visual>
     <visual>
       <geometry>
-        <mesh filename="file:///home/robertkwan/catkin_src/src/bioloid_common/bioloid_description/assets/cad/FP04-F3_FCD-Conv_BDR-Col.dae" scale="0.001 0.001 0.001"/>
+        <mesh filename="file:///home/robertkwan/catkin_ws/src/bioloid_common/bioloid_description/assets/cad/FP04-F3_FCD-Conv_BDR-Col.dae" scale="0.001 0.001 0.001"/>
       </geometry>
       <origin rpy="0 0 1.5707963267948966" xyz="0.0415 0 0"/>
     </visual>
@@ -655,25 +655,25 @@
     <!-- Motor 6 -->
     <visual>
       <geometry>
-        <mesh filename="file:///home/robertkwan/catkin_src/src/bioloid_common/bioloid_description/assets/cad/AX-12_FCD-Conv_BDR-Col.dae" scale="0.001 0.001 0.001"/>
+        <mesh filename="file:///home/robertkwan/catkin_ws/src/bioloid_common/bioloid_description/assets/cad/AX-12_FCD-Conv_BDR-Col.dae" scale="0.001 0.001 0.001"/>
       </geometry>
       <origin rpy="3.141592653589793 0 -1.5707963267948966" xyz="0 0 0"/>
     </visual>
     <visual>
       <geometry>
-        <mesh filename="file:///home/robertkwan/catkin_src/src/bioloid_common/bioloid_description/assets/cad/BPF-BU_FCD-Conv_BDR-Col.dae" scale="0.001 0.001 0.001"/>
+        <mesh filename="file:///home/robertkwan/catkin_ws/src/bioloid_common/bioloid_description/assets/cad/BPF-BU_FCD-Conv_BDR-Col.dae" scale="0.001 0.001 0.001"/>
       </geometry>
       <origin rpy="1.5707963267948966 0 1.5707963267948966" xyz="0 0 0.0185"/>
     </visual>
     <visual>
       <geometry>
-        <mesh filename="file:///home/robertkwan/catkin_src/src/bioloid_common/bioloid_description/assets/cad/BPF-WA_FCD-Conv_BDR-Col.dae" scale="0.001 0.001 0.001"/>
+        <mesh filename="file:///home/robertkwan/catkin_ws/src/bioloid_common/bioloid_description/assets/cad/BPF-WA_FCD-Conv_BDR-Col.dae" scale="0.001 0.001 0.001"/>
       </geometry>
       <origin rpy="1.5707963267948966 0 1.5707963267948966" xyz="0 0 0.019"/>
     </visual>
     <visual>
       <geometry>
-        <mesh filename="file:///home/robertkwan/catkin_src/src/bioloid_common/bioloid_description/assets/cad/FP04-F3_FCD-Conv_BDR-Col.dae" scale="0.001 0.001 0.001"/>
+        <mesh filename="file:///home/robertkwan/catkin_ws/src/bioloid_common/bioloid_description/assets/cad/FP04-F3_FCD-Conv_BDR-Col.dae" scale="0.001 0.001 0.001"/>
       </geometry>
       <origin rpy="3.141592653589793 0 -1.5707963267948966" xyz="0.0415 0 0"/>
     </visual>
@@ -704,7 +704,7 @@
   <link name="r_hand_link">
     <visual>
       <geometry>
-        <mesh filename="file:///home/robertkwan/catkin_src/src/bioloid_common/bioloid_description/assets/cad/FP04-F11_FCD-Conv_BDR-Col.dae" scale="0.001 0.001 0.001"/>
+        <mesh filename="file:///home/robertkwan/catkin_ws/src/bioloid_common/bioloid_description/assets/cad/FP04-F11_FCD-Conv_BDR-Col.dae" scale="0.001 0.001 0.001"/>
       </geometry>
       <origin rpy="3.141592653589793 -1.5707963267948966 0" xyz="0.0415 0 0"/>
     </visual>
@@ -741,7 +741,7 @@
   <link name="l_hand_link">
     <visual>
       <geometry>
-        <mesh filename="file:///home/robertkwan/catkin_src/src/bioloid_common/bioloid_description/assets/cad/FP04-F11_FCD-Conv_BDR-Col.dae" scale="0.001 0.001 0.001"/>
+        <mesh filename="file:///home/robertkwan/catkin_ws/src/bioloid_common/bioloid_description/assets/cad/FP04-F11_FCD-Conv_BDR-Col.dae" scale="0.001 0.001 0.001"/>
       </geometry>
       <origin rpy="0 -1.5707963267948966 3.141592653589793" xyz="0.0415 0 0"/>
     </visual>
@@ -780,7 +780,7 @@
   <link name="r_hip_twist_link">
     <visual>
       <geometry>
-        <mesh filename="file:///home/robertkwan/catkin_src/src/bioloid_common/bioloid_description/assets/cad/FP04-F5_FCD-Conv_BDR-Col.dae" scale="0.001 0.001 0.001"/>
+        <mesh filename="file:///home/robertkwan/catkin_ws/src/bioloid_common/bioloid_description/assets/cad/FP04-F5_FCD-Conv_BDR-Col.dae" scale="0.001 0.001 0.001"/>
       </geometry>
       <origin rpy="3.141592653589793 0 3.141592653589793" xyz="0 0.02 0.05"/>
     </visual>
@@ -813,7 +813,7 @@
   <link name="l_hip_twist_link">
     <visual>
       <geometry>
-        <mesh filename="file:///home/robertkwan/catkin_src/src/bioloid_common/bioloid_description/assets/cad/FP04-F5_FCD-Conv_BDR-Col.dae" scale="0.001 0.001 0.001"/>
+        <mesh filename="file:///home/robertkwan/catkin_ws/src/bioloid_common/bioloid_description/assets/cad/FP04-F5_FCD-Conv_BDR-Col.dae" scale="0.001 0.001 0.001"/>
       </geometry>
       <origin rpy="3.141592653589793 0 0.0" xyz="0 -0.02 0.05"/>
     </visual>
@@ -847,38 +847,38 @@
     <!-- Motor 9[r] 10[l] -->
     <visual>
       <geometry>
-        <mesh filename="file:///home/robertkwan/catkin_src/src/bioloid_common/bioloid_description/assets/cad/AX-12_FCD-Conv_BDR-Col.dae" scale="0.001 0.001 0.001"/>
+        <mesh filename="file:///home/robertkwan/catkin_ws/src/bioloid_common/bioloid_description/assets/cad/AX-12_FCD-Conv_BDR-Col.dae" scale="0.001 0.001 0.001"/>
       </geometry>
       <origin rpy="0 0 -0.0" xyz="0 0 0.0353"/>
     </visual>
     <visual>
       <geometry>
-        <mesh filename="file:///home/robertkwan/catkin_src/src/bioloid_common/bioloid_description/assets/cad/FP04-F6_FCD-Conv_BDR-Col.dae" scale="0.001 0.001 0.001"/>
+        <mesh filename="file:///home/robertkwan/catkin_ws/src/bioloid_common/bioloid_description/assets/cad/FP04-F6_FCD-Conv_BDR-Col.dae" scale="0.001 0.001 0.001"/>
       </geometry>
       <origin rpy="0 -1.5707963267948966 -1.5707963267948966" xyz="-0.019 -0.0145 0.0513"/>
     </visual>
     <visual>
       <geometry>
-        <mesh filename="file:///home/robertkwan/catkin_src/src/bioloid_common/bioloid_description/assets/cad/FP04-F6_FCD-Conv_BDR-Col.dae" scale="0.001 0.001 0.001"/>
+        <mesh filename="file:///home/robertkwan/catkin_ws/src/bioloid_common/bioloid_description/assets/cad/FP04-F6_FCD-Conv_BDR-Col.dae" scale="0.001 0.001 0.001"/>
       </geometry>
       <origin rpy="0 -1.5707963267948966 1.5707963267948966" xyz="0.019 -0.0145 0.0513"/>
     </visual>
     <!-- Motor 11[r] 12[l] -->
     <visual>
       <geometry>
-        <mesh filename="file:///home/robertkwan/catkin_src/src/bioloid_common/bioloid_description/assets/cad/AX-12_FCD-Conv_BDR-Col.dae" scale="0.001 0.001 0.001"/>
+        <mesh filename="file:///home/robertkwan/catkin_ws/src/bioloid_common/bioloid_description/assets/cad/AX-12_FCD-Conv_BDR-Col.dae" scale="0.001 0.001 0.001"/>
       </geometry>
       <origin rpy="-0.0 -1.5707963267948966 0" xyz="0 0 0.0032999999999999974"/>
     </visual>
     <visual>
       <geometry>
-        <mesh filename="file:///home/robertkwan/catkin_src/src/bioloid_common/bioloid_description/assets/cad/BPF-BU_FCD-Conv_BDR-Col.dae" scale="0.001 0.001 0.001"/>
+        <mesh filename="file:///home/robertkwan/catkin_ws/src/bioloid_common/bioloid_description/assets/cad/BPF-BU_FCD-Conv_BDR-Col.dae" scale="0.001 0.001 0.001"/>
       </geometry>
       <origin rpy="-1.5707963267948966 -0.0 0" xyz="0 0 -0.014700000000000005"/>
     </visual>
     <visual>
       <geometry>
-        <mesh filename="file:///home/robertkwan/catkin_src/src/bioloid_common/bioloid_description/assets/cad/FP04-F7_FCD-Conv_BDR-Col.dae" scale="0.001 0.001 0.001"/>
+        <mesh filename="file:///home/robertkwan/catkin_ws/src/bioloid_common/bioloid_description/assets/cad/FP04-F7_FCD-Conv_BDR-Col.dae" scale="0.001 0.001 0.001"/>
       </geometry>
       <origin rpy="1.5707963267948966 -0.0 1.5707963267948966" xyz="0 -0.0145 -0.0157"/>
     </visual>
@@ -912,38 +912,38 @@
     <!-- Motor 9[r] 10[l] -->
     <visual>
       <geometry>
-        <mesh filename="file:///home/robertkwan/catkin_src/src/bioloid_common/bioloid_description/assets/cad/AX-12_FCD-Conv_BDR-Col.dae" scale="0.001 0.001 0.001"/>
+        <mesh filename="file:///home/robertkwan/catkin_ws/src/bioloid_common/bioloid_description/assets/cad/AX-12_FCD-Conv_BDR-Col.dae" scale="0.001 0.001 0.001"/>
       </geometry>
       <origin rpy="0 0 3.141592653589793" xyz="0 0 0.0353"/>
     </visual>
     <visual>
       <geometry>
-        <mesh filename="file:///home/robertkwan/catkin_src/src/bioloid_common/bioloid_description/assets/cad/FP04-F6_FCD-Conv_BDR-Col.dae" scale="0.001 0.001 0.001"/>
+        <mesh filename="file:///home/robertkwan/catkin_ws/src/bioloid_common/bioloid_description/assets/cad/FP04-F6_FCD-Conv_BDR-Col.dae" scale="0.001 0.001 0.001"/>
       </geometry>
       <origin rpy="0 -1.5707963267948966 1.5707963267948966" xyz="0.019 0.0145 0.0513"/>
     </visual>
     <visual>
       <geometry>
-        <mesh filename="file:///home/robertkwan/catkin_src/src/bioloid_common/bioloid_description/assets/cad/FP04-F6_FCD-Conv_BDR-Col.dae" scale="0.001 0.001 0.001"/>
+        <mesh filename="file:///home/robertkwan/catkin_ws/src/bioloid_common/bioloid_description/assets/cad/FP04-F6_FCD-Conv_BDR-Col.dae" scale="0.001 0.001 0.001"/>
       </geometry>
       <origin rpy="0 -1.5707963267948966 -1.5707963267948966" xyz="-0.019 0.0145 0.0513"/>
     </visual>
     <!-- Motor 11[r] 12[l] -->
     <visual>
       <geometry>
-        <mesh filename="file:///home/robertkwan/catkin_src/src/bioloid_common/bioloid_description/assets/cad/AX-12_FCD-Conv_BDR-Col.dae" scale="0.001 0.001 0.001"/>
+        <mesh filename="file:///home/robertkwan/catkin_ws/src/bioloid_common/bioloid_description/assets/cad/AX-12_FCD-Conv_BDR-Col.dae" scale="0.001 0.001 0.001"/>
       </geometry>
       <origin rpy="3.141592653589793 1.5707963267948966 0" xyz="0 0 0.0032999999999999974"/>
     </visual>
     <visual>
       <geometry>
-        <mesh filename="file:///home/robertkwan/catkin_src/src/bioloid_common/bioloid_description/assets/cad/BPF-BU_FCD-Conv_BDR-Col.dae" scale="0.001 0.001 0.001"/>
+        <mesh filename="file:///home/robertkwan/catkin_ws/src/bioloid_common/bioloid_description/assets/cad/BPF-BU_FCD-Conv_BDR-Col.dae" scale="0.001 0.001 0.001"/>
       </geometry>
       <origin rpy="1.5707963267948966 3.141592653589793 0" xyz="0 0 -0.014700000000000005"/>
     </visual>
     <visual>
       <geometry>
-        <mesh filename="file:///home/robertkwan/catkin_src/src/bioloid_common/bioloid_description/assets/cad/FP04-F7_FCD-Conv_BDR-Col.dae" scale="0.001 0.001 0.001"/>
+        <mesh filename="file:///home/robertkwan/catkin_ws/src/bioloid_common/bioloid_description/assets/cad/FP04-F7_FCD-Conv_BDR-Col.dae" scale="0.001 0.001 0.001"/>
       </geometry>
       <origin rpy="-1.5707963267948966 3.141592653589793 1.5707963267948966" xyz="0 0.0145 -0.0157"/>
     </visual>
@@ -976,13 +976,13 @@
   <link name="r_upper_leg_link">
     <visual>
       <geometry>
-        <mesh filename="file:///home/robertkwan/catkin_src/src/bioloid_common/bioloid_description/assets/cad/FP04-F4_FCD-Conv_BDR-Col.dae" scale="0.001 0.001 0.001"/>
+        <mesh filename="file:///home/robertkwan/catkin_ws/src/bioloid_common/bioloid_description/assets/cad/FP04-F4_FCD-Conv_BDR-Col.dae" scale="0.001 0.001 0.001"/>
       </geometry>
       <origin rpy="-1.5707963267948966 -1.5707963267948966 -1.5707963267948966" xyz="0 0 0"/>
     </visual>
     <visual>
       <geometry>
-        <mesh filename="file:///home/robertkwan/catkin_src/src/bioloid_common/bioloid_description/assets/cad/FP04-F1_FCD-Conv_BDR-Col.dae" scale="0.001 0.001 0.001"/>
+        <mesh filename="file:///home/robertkwan/catkin_ws/src/bioloid_common/bioloid_description/assets/cad/FP04-F1_FCD-Conv_BDR-Col.dae" scale="0.001 0.001 0.001"/>
       </geometry>
       <origin rpy="1.5707963267948966 1.5707963267948966 -1.5707963267948966" xyz="0.075 0.0145 0"/>
     </visual>
@@ -1021,13 +1021,13 @@
   <link name="l_upper_leg_link">
     <visual>
       <geometry>
-        <mesh filename="file:///home/robertkwan/catkin_src/src/bioloid_common/bioloid_description/assets/cad/FP04-F4_FCD-Conv_BDR-Col.dae" scale="0.001 0.001 0.001"/>
+        <mesh filename="file:///home/robertkwan/catkin_ws/src/bioloid_common/bioloid_description/assets/cad/FP04-F4_FCD-Conv_BDR-Col.dae" scale="0.001 0.001 0.001"/>
       </geometry>
       <origin rpy="1.5707963267948966 1.5707963267948966 -1.5707963267948966" xyz="0 0 0"/>
     </visual>
     <visual>
       <geometry>
-        <mesh filename="file:///home/robertkwan/catkin_src/src/bioloid_common/bioloid_description/assets/cad/FP04-F1_FCD-Conv_BDR-Col.dae" scale="0.001 0.001 0.001"/>
+        <mesh filename="file:///home/robertkwan/catkin_ws/src/bioloid_common/bioloid_description/assets/cad/FP04-F1_FCD-Conv_BDR-Col.dae" scale="0.001 0.001 0.001"/>
       </geometry>
       <origin rpy="1.5707963267948966 -1.5707963267948966 1.5707963267948966" xyz="-0.075 0.0145 0"/>
     </visual>
@@ -1067,19 +1067,19 @@
     <!-- Motor 13[r] 14[l] -->
     <visual>
       <geometry>
-        <mesh filename="file:///home/robertkwan/catkin_src/src/bioloid_common/bioloid_description/assets/cad/AX-12_FCD-Conv_BDR-Col.dae" scale="0.001 0.001 0.001"/>
+        <mesh filename="file:///home/robertkwan/catkin_ws/src/bioloid_common/bioloid_description/assets/cad/AX-12_FCD-Conv_BDR-Col.dae" scale="0.001 0.001 0.001"/>
       </geometry>
       <origin rpy="0 0 0" xyz="0 0 0"/>
     </visual>
     <visual>
       <geometry>
-        <mesh filename="file:///home/robertkwan/catkin_src/src/bioloid_common/bioloid_description/assets/cad/FP04-F3_FCD-Conv_BDR-Col.dae" scale="0.001 0.001 0.001"/>
+        <mesh filename="file:///home/robertkwan/catkin_ws/src/bioloid_common/bioloid_description/assets/cad/FP04-F3_FCD-Conv_BDR-Col.dae" scale="0.001 0.001 0.001"/>
       </geometry>
       <origin rpy="0 0 1.5707963267948966" xyz="0.019 -0.0145 0"/>
     </visual>
     <visual>
       <geometry>
-        <mesh filename="file:///home/robertkwan/catkin_src/src/bioloid_common/bioloid_description/assets/cad/FP04-F4_FCD-Conv_BDR-Col.dae" scale="0.001 0.001 0.001"/>
+        <mesh filename="file:///home/robertkwan/catkin_ws/src/bioloid_common/bioloid_description/assets/cad/FP04-F4_FCD-Conv_BDR-Col.dae" scale="0.001 0.001 0.001"/>
       </geometry>
       <origin rpy="1.5707963267948966 1.5707963267948966 -1.5707963267948966" xyz="0.071 -0.0145 0"/>
     </visual>
@@ -1119,19 +1119,19 @@
     <!-- Motor 13[r] 14[l] -->
     <visual>
       <geometry>
-        <mesh filename="file:///home/robertkwan/catkin_src/src/bioloid_common/bioloid_description/assets/cad/AX-12_FCD-Conv_BDR-Col.dae" scale="0.001 0.001 0.001"/>
+        <mesh filename="file:///home/robertkwan/catkin_ws/src/bioloid_common/bioloid_description/assets/cad/AX-12_FCD-Conv_BDR-Col.dae" scale="0.001 0.001 0.001"/>
       </geometry>
       <origin rpy="0 0 0" xyz="0 0 0"/>
     </visual>
     <visual>
       <geometry>
-        <mesh filename="file:///home/robertkwan/catkin_src/src/bioloid_common/bioloid_description/assets/cad/FP04-F3_FCD-Conv_BDR-Col.dae" scale="0.001 0.001 0.001"/>
+        <mesh filename="file:///home/robertkwan/catkin_ws/src/bioloid_common/bioloid_description/assets/cad/FP04-F3_FCD-Conv_BDR-Col.dae" scale="0.001 0.001 0.001"/>
       </geometry>
       <origin rpy="0 0 -1.5707963267948966" xyz="-0.019 -0.0145 0"/>
     </visual>
     <visual>
       <geometry>
-        <mesh filename="file:///home/robertkwan/catkin_src/src/bioloid_common/bioloid_description/assets/cad/FP04-F4_FCD-Conv_BDR-Col.dae" scale="0.001 0.001 0.001"/>
+        <mesh filename="file:///home/robertkwan/catkin_ws/src/bioloid_common/bioloid_description/assets/cad/FP04-F4_FCD-Conv_BDR-Col.dae" scale="0.001 0.001 0.001"/>
       </geometry>
       <origin rpy="-1.5707963267948966 -1.5707963267948966 -1.5707963267948966" xyz="-0.071 -0.0145 0"/>
     </visual>
@@ -1171,32 +1171,32 @@
     <!-- Motor 15[r] 16[l] -->
     <visual>
       <geometry>
-        <mesh filename="file:///home/robertkwan/catkin_src/src/bioloid_common/bioloid_description/assets/cad/AX-12_FCD-Conv_BDR-Col.dae" scale="0.001 0.001 0.001"/>
+        <mesh filename="file:///home/robertkwan/catkin_ws/src/bioloid_common/bioloid_description/assets/cad/AX-12_FCD-Conv_BDR-Col.dae" scale="0.001 0.001 0.001"/>
       </geometry>
       <origin rpy=" -0.0  3.141592653589793 -1.5707963267948966" xyz="0 0 0"/>
     </visual>
     <visual>
       <geometry>
-        <mesh filename="file:///home/robertkwan/catkin_src/src/bioloid_common/bioloid_description/assets/cad/FP04-F7_FCD-Conv_BDR-Col.dae" scale="0.001 0.001 0.001"/>
+        <mesh filename="file:///home/robertkwan/catkin_ws/src/bioloid_common/bioloid_description/assets/cad/FP04-F7_FCD-Conv_BDR-Col.dae" scale="0.001 0.001 0.001"/>
       </geometry>
       <origin rpy="3.141592653589793 -0.0 0" xyz="-0.0145 0.019 0"/>
     </visual>
     <!-- Motor 17[r] 18[l] -->
     <visual>
       <geometry>
-        <mesh filename="file:///home/robertkwan/catkin_src/src/bioloid_common/bioloid_description/assets/cad/AX-12_FCD-Conv_BDR-Col.dae" scale="0.001 0.001 0.001"/>
+        <mesh filename="file:///home/robertkwan/catkin_ws/src/bioloid_common/bioloid_description/assets/cad/AX-12_FCD-Conv_BDR-Col.dae" scale="0.001 0.001 0.001"/>
       </geometry>
       <origin rpy="0 1.5707963267948966 -1.5707963267948966" xyz="0 -0.032 0"/>
     </visual>
     <visual>
       <geometry>
-        <mesh filename="file:///home/robertkwan/catkin_src/src/bioloid_common/bioloid_description/assets/cad/FP04-F6_FCD-Conv_BDR-Col.dae" scale="0.001 0.001 0.001"/>
+        <mesh filename="file:///home/robertkwan/catkin_ws/src/bioloid_common/bioloid_description/assets/cad/FP04-F6_FCD-Conv_BDR-Col.dae" scale="0.001 0.001 0.001"/>
       </geometry>
       <origin rpy="-1.5707963267948966 0 -1.5707963267948966" xyz="-0.0145 -0.048 0.019"/>
     </visual>
     <visual>
       <geometry>
-        <mesh filename="file:///home/robertkwan/catkin_src/src/bioloid_common/bioloid_description/assets/cad/FP04-F6_FCD-Conv_BDR-Col.dae" scale="0.001 0.001 0.001"/>
+        <mesh filename="file:///home/robertkwan/catkin_ws/src/bioloid_common/bioloid_description/assets/cad/FP04-F6_FCD-Conv_BDR-Col.dae" scale="0.001 0.001 0.001"/>
       </geometry>
       <origin rpy="1.5707963267948966 0 -1.5707963267948966" xyz="-0.0145 -0.048 -0.019"/>
     </visual>
@@ -1230,32 +1230,32 @@
     <!-- Motor 15[r] 16[l] -->
     <visual>
       <geometry>
-        <mesh filename="file:///home/robertkwan/catkin_src/src/bioloid_common/bioloid_description/assets/cad/AX-12_FCD-Conv_BDR-Col.dae" scale="0.001 0.001 0.001"/>
+        <mesh filename="file:///home/robertkwan/catkin_ws/src/bioloid_common/bioloid_description/assets/cad/AX-12_FCD-Conv_BDR-Col.dae" scale="0.001 0.001 0.001"/>
       </geometry>
       <origin rpy=" 3.141592653589793  0.0 -1.5707963267948966" xyz="0 0 0"/>
     </visual>
     <visual>
       <geometry>
-        <mesh filename="file:///home/robertkwan/catkin_src/src/bioloid_common/bioloid_description/assets/cad/FP04-F7_FCD-Conv_BDR-Col.dae" scale="0.001 0.001 0.001"/>
+        <mesh filename="file:///home/robertkwan/catkin_ws/src/bioloid_common/bioloid_description/assets/cad/FP04-F7_FCD-Conv_BDR-Col.dae" scale="0.001 0.001 0.001"/>
       </geometry>
       <origin rpy="3.141592653589793 3.141592653589793 0" xyz="0.0145 0.019 0"/>
     </visual>
     <!-- Motor 17[r] 18[l] -->
     <visual>
       <geometry>
-        <mesh filename="file:///home/robertkwan/catkin_src/src/bioloid_common/bioloid_description/assets/cad/AX-12_FCD-Conv_BDR-Col.dae" scale="0.001 0.001 0.001"/>
+        <mesh filename="file:///home/robertkwan/catkin_ws/src/bioloid_common/bioloid_description/assets/cad/AX-12_FCD-Conv_BDR-Col.dae" scale="0.001 0.001 0.001"/>
       </geometry>
       <origin rpy="0 -1.5707963267948966 1.5707963267948966" xyz="0 -0.032 0"/>
     </visual>
     <visual>
       <geometry>
-        <mesh filename="file:///home/robertkwan/catkin_src/src/bioloid_common/bioloid_description/assets/cad/FP04-F6_FCD-Conv_BDR-Col.dae" scale="0.001 0.001 0.001"/>
+        <mesh filename="file:///home/robertkwan/catkin_ws/src/bioloid_common/bioloid_description/assets/cad/FP04-F6_FCD-Conv_BDR-Col.dae" scale="0.001 0.001 0.001"/>
       </geometry>
       <origin rpy="1.5707963267948966 0 -1.5707963267948966" xyz="0.0145 -0.048 -0.019"/>
     </visual>
     <visual>
       <geometry>
-        <mesh filename="file:///home/robertkwan/catkin_src/src/bioloid_common/bioloid_description/assets/cad/FP04-F6_FCD-Conv_BDR-Col.dae" scale="0.001 0.001 0.001"/>
+        <mesh filename="file:///home/robertkwan/catkin_ws/src/bioloid_common/bioloid_description/assets/cad/FP04-F6_FCD-Conv_BDR-Col.dae" scale="0.001 0.001 0.001"/>
       </geometry>
       <origin rpy="-1.5707963267948966 0 -1.5707963267948966" xyz="0.0145 -0.048 0.019"/>
     </visual>
@@ -1288,13 +1288,13 @@
   <link name="r_ankle_lateral_link">
     <visual>
       <geometry>
-        <mesh filename="file:///home/robertkwan/catkin_src/src/bioloid_common/bioloid_description/assets/cad/BPF-BU_FCD-Conv_BDR-Col.dae" scale="0.001 0.001 0.001"/>
+        <mesh filename="file:///home/robertkwan/catkin_ws/src/bioloid_common/bioloid_description/assets/cad/BPF-BU_FCD-Conv_BDR-Col.dae" scale="0.001 0.001 0.001"/>
       </geometry>
       <origin rpy="1.5707963267948966 0 0" xyz="0 0 0.015"/>
     </visual>
     <visual>
       <geometry>
-        <mesh filename="file:///home/robertkwan/catkin_src/src/bioloid_common/bioloid_description/assets/cad/FP04-F5_FCD-Conv_BDR-Col.dae" scale="0.001 0.001 0.001"/>
+        <mesh filename="file:///home/robertkwan/catkin_ws/src/bioloid_common/bioloid_description/assets/cad/FP04-F5_FCD-Conv_BDR-Col.dae" scale="0.001 0.001 0.001"/>
       </geometry>
       <origin rpy="-1.5707963267948966 -0.0  -1.5707963267948966" xyz="0 0 -0.0155"/>
     </visual>
@@ -1327,13 +1327,13 @@
   <link name="l_ankle_lateral_link">
     <visual>
       <geometry>
-        <mesh filename="file:///home/robertkwan/catkin_src/src/bioloid_common/bioloid_description/assets/cad/BPF-BU_FCD-Conv_BDR-Col.dae" scale="0.001 0.001 0.001"/>
+        <mesh filename="file:///home/robertkwan/catkin_ws/src/bioloid_common/bioloid_description/assets/cad/BPF-BU_FCD-Conv_BDR-Col.dae" scale="0.001 0.001 0.001"/>
       </geometry>
       <origin rpy="1.5707963267948966 0 0" xyz="0 0 0.015"/>
     </visual>
     <visual>
       <geometry>
-        <mesh filename="file:///home/robertkwan/catkin_src/src/bioloid_common/bioloid_description/assets/cad/FP04-F5_FCD-Conv_BDR-Col.dae" scale="0.001 0.001 0.001"/>
+        <mesh filename="file:///home/robertkwan/catkin_ws/src/bioloid_common/bioloid_description/assets/cad/FP04-F5_FCD-Conv_BDR-Col.dae" scale="0.001 0.001 0.001"/>
       </geometry>
       <origin rpy="1.5707963267948966 3.141592653589793  -1.5707963267948966" xyz="0 0 -0.0155"/>
     </visual>
